@@ -1,0 +1,1 @@
+¡Ejercitemos en el uso de arrays!
